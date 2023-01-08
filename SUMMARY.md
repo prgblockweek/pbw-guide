@@ -34,4 +34,5 @@
 * [Twitter 🇬🇧](https://twitter.com/PrgBlockWeek)
 * [Twitter 🇨🇿](https://twitter.com/PrgBlockWeekCZ)
 * [Telegram](https://t.me/prgblockweek)
+* [Discord](https://discord.com/invite/FYBQjHprEr)
 * [GitHub](https://github.com/utxo-foundation/pbw23)
