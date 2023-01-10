@@ -34,6 +34,24 @@ One of the main tasks of PBW is to promote and spread awareness of the event - t
 
 
 
+
+
+</details>
+
+<details>
+
+<summary>Venue manager</summary>
+
+Takes care of the list of available venues and communication with them, possibly contacting new ones.
+
+</details>
+
+<details>
+
+<summary>Media manager</summary>
+
+Communication with global and local cryptocurrency and other media. Managing the media-center.
+
 </details>
 
 ### At the time of the event (short-term)
