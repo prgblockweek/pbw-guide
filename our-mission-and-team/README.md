@@ -7,7 +7,7 @@ The aim of this initiative is to create a collaborative space where individual o
 Legal representation for the PBW23 initiative is being handled by the non-profit and independent [UTXO Foundation z.s.](https://utxo.foundation/), a Czech officially registered collective that supports local cryptocurrency events.
 
 {% hint style="warning" %}
-We are just an umbrella initiative, each PBW23 sub-event is organised individually by specific individuals or teams. The events that make it onto our list go through basic screening, but **we are not responsible in any way for their content or activities**.
+We are just an independent initiative, each PBW23 sub-event is organised individually by specific individuals or teams. The events that make it onto our list go through basic screening, but **we are not responsible in any way for their content or activities**.
 {% endhint %}
 
 ## Goals
