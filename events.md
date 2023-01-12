@@ -13,7 +13,7 @@ Confirmed events in chronological order:
 _\*Events are in English language unless otherwise stated._
 
 {% hint style="warning" %}
-**All of these events are independent and have their own organisers.** Prague Blockchain Week is just an independent initiative that connects and informs about these events.
+**All of these events are independent and have their own organisers.** Prague Blockchain Week is just an independent initiative that connects and informs about these events ([Our mission](our-mission-and-team/)).
 
 If you want information about tickets, or to contact the organizers of a specific event - then contact them directly.
 {% endhint %}
