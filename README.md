@@ -12,6 +12,10 @@ These events will focus on a variety of different cryptocurrency ecosystems and 
 
 It is a chain agnostic and neutral community-led initiative. Our goal is not to promote one single blockchain, but rather to stimulate discussion between proponents of different solutions. The common theme is financial freedom, decentralization and privacy.
 
+{% content-ref url="events.md" %}
+[events.md](events.md)
+{% endcontent-ref %}
+
 {% hint style="success" %}
 If you want to get the most up-to-date information and news about the event, follow our [Twitter account](https://twitter.com/PrgBlockWeek) ([Czech version](https://twitter.com/PrgBlockWeekCZ)).
 {% endhint %}

@@ -1,3 +1,7 @@
+---
+description: List of cryptocurrency events within PBW23
+---
+
 # 🗓 Events
 
 {% hint style="info" %}
