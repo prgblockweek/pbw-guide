@@ -2,7 +2,7 @@
 description: Everyone is welcome to host their own event!
 ---
 
-# 🗓 Event Host Guide
+# 🧙♂ Event Host Guide
 
 PBW is a [decentralized conference](../faq.md#what-is-decentralized-conference), so we welcome any team or individual to host their own event. It can be a conference, hackathon, workshop, meetup, cinema screening, vernissage, party, social gathering or something else - it's up to you! The only condition is that it must be related to cryptocurrency topics.
 
