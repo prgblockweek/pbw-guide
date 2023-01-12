@@ -1,13 +1,13 @@
 # 💙 Our mission & Team
 
-PBW23 is an _open_, _independent, non-profit_ initiative that seeks to unite and assist all cryptocurrency related events taking place in Prague in early June 2023.
+\#PBW23 is an _open_, _independent, non-profit_ initiative that seeks to unite and assist all cryptocurrency related events taking place in Prague in early June 2023.
 
 The aim of this initiative is to create a collaborative space where individual organisers can exchange knowledge, experience, contacts and other necessary things to make their event the best it can be. Together, our individual topics and reach can be stronger.
 
-Legal representation for the PBW23 initiative is being handled by the non-profit and independent [UTXO Foundation z.s.](https://utxo.foundation/), a Czech officially registered collective that supports local cryptocurrency events.
+Legal representation for the #PBW23 initiative is being handled by the non-profit and independent [UTXO Foundation z.s.](https://utxo.foundation/), a Czech officially registered collective that supports local cryptocurrency events.
 
 {% hint style="warning" %}
-We are just an independent initiative, each PBW23 event is organised individually by specific individuals or teams. The events that make it onto our list go through basic screening, but **we are not responsible in any way for their content or activities**.
+We are just an independent initiative, each #PBW23 event is organised individually by specific individuals or teams. The events that make it onto our list go through basic screening, but **we are not responsible in any way for their content or activities**.
 {% endhint %}
 
 ## Goals

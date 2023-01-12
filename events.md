@@ -1,5 +1,5 @@
 ---
-description: 'List of events within #pbw23'
+description: 'List of events within #PBW23'
 ---
 
 # 🗓 Events

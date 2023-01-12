@@ -2,7 +2,7 @@
 
 ## What is Prague Blockchain Week?
 
-Prague Blockchain Week is a _decentralized conference_ and gathering of all people interested in cryptocurrencies and related topics. It consists of many **independent events** across Jun 2 - 11, including conferences, hackathons, workshops, community meetups, as well as various parties and happy hours.&#x20;
+Prague Blockchain Week (#PBW23) is a _decentralized conference_ and gathering of all people interested in cryptocurrencies and related topics. It consists of many **independent events** across Jun 2 - 11, including conferences, hackathons, workshops, community meetups, as well as various parties and happy hours.&#x20;
 
 These events will focus on a variety of different cryptocurrency ecosystems and topics such as hard money, payments, DeFi, Web3, DAOs, CryptoEconomics, NFTs, DeSci, mining, and many more.
 
