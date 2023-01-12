@@ -1,6 +1,7 @@
 # Table of contents
 
 * [⭐ Welcome to Prague Blockchain Week 2023](README.md)
+* [🗓 Events](events.md)
 * [🙋♂ Attendees Guide](attendees-guide/README.md)
   * [🕗 Schedule](attendees-guide/schedule.md)
   * [🗺 Venue Map](attendees-guide/venue-map.md)
@@ -10,7 +11,7 @@
   * [🇨🇿 Visas](attendees-guide/visas.md)
   * [😷 COVID-19 policy](attendees-guide/covid-19-policy.md)
   * [📜 Code of conduct](attendees-guide/code-of-conduct.md)
-* [🗓 Event Host Guide](event-host-guide/README.md)
+* [🧙♂ Event Host Guide](event-host-guide/README.md)
   * [🎯 Define your event](event-host-guide/define-your-event.md)
   * [📍 Venue Options](event-host-guide/venue-options.md)
   * [✅ List your event](event-host-guide/list-your-event.md)
