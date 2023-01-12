@@ -22,9 +22,15 @@ _\*Events are in_ :flag\_gb: _English language unless otherwise stated._
 If you want information about tickets, or to contact the organizers of a specific event - then contact them directly.
 {% endhint %}
 
-## All events
+## All events within #PBW23
 
 The complete list of all events (including planned):
 
 {% embed url="https://utxo-foundation.notion.site/fb1f9644ed04478695a59b9fa4f0656d?v=60d975ac09db4ca0a4cb1518ab08540f" %}
 
+## Related Events in Prague
+
+These events take place outside of the #PBW23 dates, but are relatively close in time.
+
+* [Pizza Day Prague 2023](https://p2p.pizzaday.cz/) - May, 20-21
+* [Monero Koneferenco 2023](https://monerokon.com/) - Jun, 23-25
