@@ -28,6 +28,14 @@ Would you like to organize an event? No problem! Anyone can host an event at PBW
 
 If you have any questions, ideas for improvements or comments, please [contact us](contact-us.md).
 
+## Links
+
+* Web: [prgblockweek.com](https://prgblockweek.com/)
+* Twitter: [@PrgBlockWeek](https://twitter.com/PrgBlockWeek)
+* Twitter (Czech account): [@PrgBlockWeekCZ](https://twitter.com/PrgBlockWeekCZ)
+* Telegram: [@PrgBlockWeek](https://t.me/PrgBlockWeek)
+* Discord: [discord.com/invite/FYBQjHprEr](https://discord.com/invite/FYBQjHprEr)
+
 ## Table of Contents
 
 {% content-ref url="events.md" %}
