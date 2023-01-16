@@ -1,4 +1,4 @@
-# 📢 Promo Toolkit
+# 💣 Promo Toolkit
 
 {% hint style="info" %}
 This page is under construction.
@@ -10,6 +10,14 @@ Thank you for spreading the word for Prague Blockchain Week 2023! [🇨🇿](htt
 
 ### General 1
 
-### General 2
+Come to Prague Blockchain Week @PrgBlockWeek, a decentralized conference in the heart of Europe.
+
+💡Bitcoin, Ethereum, Cosmos, Polkadot, DeFi, NFTs, DeSci, DAOs and many more!&#x20;
+
+📆 Jun 2-11, 2022
+
+🎫 Event tickets + updates: prgblockweek.com
 
 ## Email, Telegram & Discord
+
+TODO
