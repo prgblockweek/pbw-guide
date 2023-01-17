@@ -23,7 +23,7 @@
   * [➕ PBW23 Event+](event-host-guide/eventplus.md)
 * [💣 Promo Toolkit](promo-toolkit.md)
 * [📢 Media partners](media-partners/README.md)
-  * [Media Partnership Program](media-partners/media-partnership-program.md)
+  * [🤝 Media Partnership Program (MPP)](media-partners/media-partnership-program-mpp.md)
 * [💙 Our mission & Team](our-mission-and-team/README.md)
   * [🤝 Sponsors & Partners](our-mission-and-team/sponsors-and-partners.md)
   * [💻 Careers](our-mission-and-team/careers.md)
