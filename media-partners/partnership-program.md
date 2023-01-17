@@ -10,7 +10,7 @@ Based on the agreement, media partners will have the following benefits:
 
 * membership in a private group exclusively for media partners
 * "press tickets" for individual events
-* access to the temporary [Press Center](media-partnership-program-mpp.md#press-center-wip) during #PBW23
+* access to the temporary [Press Center](partnership-program.md#press-center-wip) during #PBW23
 
 Want to join the party and spread the word about the world's largest decentralized cryptocurrency festival? [Contact us](../contact-us.md)!
 

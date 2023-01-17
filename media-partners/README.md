@@ -1,9 +1,9 @@
-# 📢 Media partners
+# 📢 Media Partners
 
-We welcome any media house, journalists, news site, podcaster or YouTuber to report on the events of #PBW23. We would like people around the world to hear about Prague Blockchain Week and the related events and ideas that will be presented there.
+We would like people around the world to hear about Prague Blockchain Week and the related events and ideas that will be presented there.
 
 {% hint style="success" %}
-Want to spread the word about #PBW23, be on the list below, and other perks? Join our [Media Partnership Program](media-partnership-program-mpp.md)!
+Want to spread the word about #PBW23, be on the list below, and other perks? Join our [Media Partnership Program](partnership-program.md)!
 {% endhint %}
 
 ## English media
