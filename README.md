@@ -54,6 +54,10 @@ If you have any questions, ideas for improvements or comments, please [contact u
 [promo-toolkit.md](promo-toolkit.md)
 {% endcontent-ref %}
 
+{% content-ref url="media-partners/" %}
+[media-partners](media-partners/)
+{% endcontent-ref %}
+
 {% content-ref url="our-mission-and-team/" %}
 [our-mission-and-team](our-mission-and-team/)
 {% endcontent-ref %}
