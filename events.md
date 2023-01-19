@@ -33,4 +33,4 @@ The complete list of all events (including planned):
 These events take place outside of the #PBW23 dates, but are relatively close in time.
 
 * [Pizza Day Prague 2023](https://p2p.pizzaday.cz/) - May, 20-21
-* [Monero Koneferenco 2023](https://monerokon.com/) - Jun, 23-25
+* [Monero Konferenco 2023](https://monerokon.com/) - Jun, 23-25
