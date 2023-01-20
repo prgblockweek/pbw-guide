@@ -8,7 +8,7 @@ Want to spread the word about #PBW23, be on the list below, and other perks? Joi
 
 ## Global :earth\_americas:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Crypto Nomads Club</strong></td><td><a href="https://twitter.com/CryptoNomads_gm">@CryptoNomads_gm</a></td><td>A community for crypto nomads</td><td><a href="https://www.cryptonomadsclub.xyz/">https://www.cryptonomadsclub.xyz/</a></td><td><a href="../.gitbook/assets/crypto-nomads.png">crypto-nomads.png</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Crypto Nomads Club</strong></td><td><a href="https://twitter.com/CryptoNomads_gm">@CryptoNomads_gm</a></td><td>A community for crypto nomads</td><td><a href="https://www.cryptonomadsclub.xyz/">https://www.cryptonomadsclub.xyz/</a></td><td><a href="../.gitbook/assets/crypto-nomads.png">crypto-nomads.png</a></td></tr></tbody></table>
 
 ## Czech/Slovak :flag\_cz::flag\_sk:
 
