@@ -6,7 +6,7 @@ We would like people around the world to hear about Prague Blockchain Week and t
 Want to spread the word about #PBW23, be on the list below, and other perks? Join our [Media Partnership Program](partnership-program.md)!
 {% endhint %}
 
-## Global :flag\_gb::flag\_us:
+## Global :earth\_americas:
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Crypto Nomads Club</strong></td><td><a href="https://twitter.com/CryptoNomads_gm">@CryptoNomads_gm</a></td><td>A community for crypto nomads</td><td><a href="https://www.cryptonomadsclub.xyz/">https://www.cryptonomadsclub.xyz/</a></td><td><a href="../.gitbook/assets/crypto-nomads.png">crypto-nomads.png</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
