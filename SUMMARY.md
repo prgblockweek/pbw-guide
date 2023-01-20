@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⭐ Welcome to Prague Blockchain Week 2023](README.md)
+* [⭐ Welcome to #PBW23 Guide](README.md)
 * [🗓 Events](events.md)
 * [🙋♂ Attendees Guide](attendees-guide/README.md)
   * [🕗 Schedule](attendees-guide/schedule.md)
