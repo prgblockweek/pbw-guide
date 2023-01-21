@@ -29,6 +29,6 @@ Soon you will be able to list your own union using our GitHub repository.
 ### Conditions for forming a new union
 
 1. Consist of at least two events.
-2. Have a responsible person(s) (or organisation(s)).
+2. Have a responsible person(s) or organisation(s).
 3. Events must agree with membership of the union.
 4. Should support its events - materially, financially, etc.
