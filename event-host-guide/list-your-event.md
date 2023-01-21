@@ -6,4 +6,4 @@ This page is under construction.
 
 Soon you will be able to list your own event using our GitHub repository.
 
-If you want to add your event today, contact us!
+If you want to add your event today, [contact us](../contact-us.md)!
