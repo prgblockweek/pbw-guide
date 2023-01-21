@@ -2,7 +2,7 @@
 description: June 2 - 11, 2023 ⎯ Prague, Czech Republic 🇨🇿
 ---
 
-# ⭐ Welcome to Prague Blockchain Week 2023
+# ⭐ Welcome to #PBW23 Guide
 
 <figure><img src=".gitbook/assets/pbw23-banner.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ If you have any questions, ideas for improvements or comments, please [contact u
 
 ## Links
 
-* Web: [prgblockweek.com](https://prgblockweek.com/)
+* Web: [prgblockweek.com](https://prgblockweek.com/) / [pragueblockchainweek.cz](https://pragueblockchainweek.cz/) / [blockchainweek.cz](https://blockchainweek.cz/)
 * Twitter: [@PrgBlockWeek](https://twitter.com/PrgBlockWeek)
 * Twitter (Czech account): [@PrgBlockWeekCZ](https://twitter.com/PrgBlockWeekCZ)
 * Telegram: [@PrgBlockWeek](https://t.me/PrgBlockWeek)
