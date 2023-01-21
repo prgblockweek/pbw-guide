@@ -8,10 +8,6 @@ description: 'List of events within #PBW23'
 These are just the major events, we are at the beginning and many other events are in the works. Expect many more to come.
 {% endhint %}
 
-<img src=".gitbook/assets/logo_gm_events.png" alt="" data-size="line">
-
-##
-
 ## Conferences & hackathons
 
 Confirmed events sorted by the number of expected visitors:
