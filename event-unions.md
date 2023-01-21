@@ -20,9 +20,9 @@ The best Ethereum, Web3 and DeFi events. Coordinated by [PWN](https://pwn.xyz/).
 
 Events for a wide local audience, mostly in Czech or Slovak language as a chain agnostic union. Coordinated by [UTXO Foundation](https://utxo.foundation/).
 
-## Want to create your own event union?
+## Create your own union!
 
-Anyone can create their own union! Please [contact us](contact-us.md).
+We are an open initiative, so everyone can create their own union. Please [contact us](contact-us.md).
 
 Soon you will be able to list your own union using our GitHub repository.
 
@@ -31,4 +31,5 @@ Soon you will be able to list your own union using our GitHub repository.
 1. Consist of at least two events.
 2. Have a responsible person(s) or organisation(s).
 3. Events must agree with membership of the union.
-4. Should support its events - materially, financially, etc.
+4. A single event can only be in one union.
+5. Union should support its events - materially, financially, etc.
