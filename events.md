@@ -5,7 +5,7 @@ description: 'List of events within #PBW23'
 # 🗓 Events
 
 {% hint style="info" %}
-These are just the major events, we are at the beginning and many other events are in the works. Expect many more to come.
+These are just the major events. Expect many more to come.
 {% endhint %}
 
 ## Conferences & hackathons (9)
