@@ -8,7 +8,7 @@ description: 'Connect with like-minded friends within #PBW23'
 Event unions is a completely new concept - this experiment can still be cancelled at any time.
 {% endhint %}
 
-Event unions are voluntary groups of individual #PBW23 events, based on some mutual proximity. They usually have a common goal, coordinated by a responsible person or organisation, which should bring additional benefits - both for the organisers and for the visitors themselves.
+_Event unions_ are voluntary groups of individual #PBW23 events, based on some mutual proximity. They usually have a common goal, coordinated by a responsible person or organisation, which should bring additional benefits - both for the organisers and for the visitors themselves.
 
 ## Current unions (2)
 

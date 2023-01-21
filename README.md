@@ -30,7 +30,7 @@ If you have any questions, ideas for improvements or comments, please [contact u
 
 ## Links
 
-* Web: [prgblockweek.com](https://prgblockweek.com/) / [pragueblockchainweek.cz](https://pragueblockchainweek.cz/) / [blockchainweek.cz](https://blockchainweek.cz/)
+* Web: [prgblockweek.com](https://prgblockweek.com/) / [pragueblockchainweek.com](https://pragueblockchainweek.com/) / [blockchainweek.cz](https://blockchainweek.cz/)
 * Twitter: [@PrgBlockWeek](https://twitter.com/PrgBlockWeek)
 * Twitter (Czech account): [@PrgBlockWeekCZ](https://twitter.com/PrgBlockWeekCZ)
 * Telegram: [@PrgBlockWeek](https://t.me/PrgBlockWeek)
