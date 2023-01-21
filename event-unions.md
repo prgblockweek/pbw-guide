@@ -14,11 +14,11 @@ Event unions are voluntary groups of individual #PBW23 events, based on some mut
 
 ### [GM Events](https://gm.events/) <img src=".gitbook/assets/logo_gm_events.png" alt="" data-size="line">
 
-The best Ethereum, Web3 and DeFi events. Coordinator is [PWN](https://pwn.xyz/).
+The best Ethereum, Web3 and DeFi events. Coordinated by [PWN](https://pwn.xyz/).
 
 ### [UTXO Events](https://utxo.events) <img src=".gitbook/assets/Z_fQwr0r_400x400.jpg" alt="" data-size="line">&#x20;
 
-Events for a wide local audience, mostly in Czech or Slovak language as a chain agnostic union. Coordinator is [UTXO Foundation](https://utxo.foundation/).
+Events for a wide local audience, mostly in Czech or Slovak language as a chain agnostic union. Coordinated by [UTXO Foundation](https://utxo.foundation/).
 
 ## Want to create your own event union?
 
