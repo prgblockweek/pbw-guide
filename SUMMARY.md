@@ -2,6 +2,7 @@
 
 * [⭐ Welcome to #PBW23 Guide](README.md)
 * [🗓 Events](events.md)
+* [🫂 Event Unions](event-unions.md)
 * [🙋♂ Attendees Guide](attendees-guide/README.md)
   * [🕗 Schedule](attendees-guide/schedule.md)
   * [🗺 Venue Map](attendees-guide/venue-map.md)
