@@ -22,11 +22,17 @@ _\*Events are in_ :flag\_gb: _English language unless otherwise stated._
 If you want information about tickets, or to contact the organizers of a specific event - then contact them directly.
 {% endhint %}
 
-## All events within #PBW23
+## All confirmed events within #PBW23
 
-The complete list of all events (including planned):
+The complete list of all confirmed events (with date):
 
 {% embed url="https://utxo-foundation.notion.site/fb1f9644ed04478695a59b9fa4f0656d?v=60d975ac09db4ca0a4cb1518ab08540f" %}
+
+## Event ideas
+
+There are other events in the pipeline that the community is working on that don't yet have a set date and are not fully confirmed:
+
+{% embed url="https://utxo-foundation.notion.site/0a947b8814fc4043a9b3b1f38c64e196?v=75105411bf9a4187a0a69b8211f98c5e" %}
 
 ## Related Events in Prague
 
