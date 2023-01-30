@@ -17,6 +17,7 @@
   * [✅ List your event](event-host-guide/list-your-event.md)
   * [🤝 Collaborate](event-host-guide/collaborate.md)
   * [📣 Marketing](event-host-guide/marketing.md)
+  * [⚖ Legal](event-host-guide/legal.md)
   * [📋 Event Checklist](event-host-guide/event-checklist.md)
   * [🛠 Resources, experts and agencies](event-host-guide/resources-experts-and-agencies.md)
   * [🧪 Events in the Works](event-host-guide/events-in-the-works.md)
