@@ -2,7 +2,6 @@
 
 * [⭐ Welcome to #PBW23 Guide](README.md)
 * [🗓 Events](events.md)
-* [🫂 Event Unions](event-unions.md)
 * [🙋♂ Attendees Guide](attendees-guide/README.md)
   * [🕗 Schedule](attendees-guide/schedule.md)
   * [🗺 Venue Map](attendees-guide/venue-map.md)
@@ -22,6 +21,7 @@
   * [🛠 Resources, experts and agencies](event-host-guide/resources-experts-and-agencies.md)
   * [🧪 Events in the Works](event-host-guide/events-in-the-works.md)
   * [🌎 Global context](event-host-guide/global-context.md)
+  * [🫂 Event Unions](event-host-guide/event-unions.md)
   * [➕ PBW23 Event+](event-host-guide/eventplus.md)
 * [💣 Promo Toolkit](promo-toolkit.md)
 * [📢 Media Partners](media-partners/README.md)
@@ -36,6 +36,7 @@
 ## Follow Us
 
 * [Website](https://prgblockweek.com/)
+* [Explore](http://explore.prgblockweek.com/)
 * [Twitter 🇬🇧](https://twitter.com/PrgBlockWeek)
 * [Twitter 🇨🇿](https://twitter.com/PrgBlockWeekCZ)
 * [Telegram](https://t.me/prgblockweek)
