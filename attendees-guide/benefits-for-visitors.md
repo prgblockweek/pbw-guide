@@ -1,8 +1,8 @@
 ---
-description: 😎 Benefits for Visitors at Local Shops and Venues
+description: Benefits at Local Shops and Venues
 ---
 
-# Benefits for visitors
+# 😎 Benefits for visitors
 
 You can find all the benefits [on the website](https://explore.prgblockweek.com/23/benefits).
 
