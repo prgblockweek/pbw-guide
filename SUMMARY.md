@@ -31,6 +31,8 @@
 * [💙 Our mission & Team](our-mission-and-team/README.md)
   * [🤝 Sponsors & Partners](our-mission-and-team/sponsors-and-partners.md)
   * [💻 Careers](our-mission-and-team/careers.md)
+* [🔅 Volunteers](volunteers/README.md)
+  * [Sign up form](https://tally.so/r/31WJx1)
 * [❓ FAQ](faq.md)
 * [💬 Contact Us](contact-us.md)
 * [🏠 Impressum](impressum.md)
