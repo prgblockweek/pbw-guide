@@ -9,7 +9,7 @@ All confirmed events planned for Prague Blockchain Week are published in this ov
 {% embed url="https://explore.prgblockweek.com/23/events" %}
 
 {% hint style="warning" %}
-**All of these events are independent and have their own organisers.** Prague Blockchain Week is just an independent initiative that connects and informs about these events ([Our mission](our-mission-and-team/)).
+**All of these events are independent and have their own organisers.** Prague Blockchain Week is just an independent initiative that connects and informs about these events ([Our mission](our-mission/)).
 
 If you want information about tickets, or to contact the organizers of a specific event - then contact them directly.
 {% endhint %}

@@ -57,8 +57,8 @@ If you have any questions, ideas for improvements or comments, please [contact u
 [media-partners](media-partners/)
 {% endcontent-ref %}
 
-{% content-ref url="our-mission-and-team/" %}
-[our-mission-and-team](our-mission-and-team/)
+{% content-ref url="our-mission/" %}
+[our-mission](our-mission/)
 {% endcontent-ref %}
 
 {% content-ref url="faq.md" %}
