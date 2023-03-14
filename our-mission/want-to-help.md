@@ -1,4 +1,6 @@
-# 💻 Careers
+# 💻 Want to help?
+
+We are a non-profit initiative, so we cannot provide traditional commercial offers. However, you can still gain valuable experience and contacts while working with us, so it's worth helping the largest decentralized cryptocurrency event in the country!
 
 ## Open positions
 

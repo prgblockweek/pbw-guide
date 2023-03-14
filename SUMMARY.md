@@ -31,7 +31,7 @@
 * [💙 Our mission](our-mission/README.md)
   * [💬 PBW23 Allies group](our-mission/pbw23-allies-group.md)
   * [🤝 Sponsors & Partners](our-mission/sponsors-and-partners.md)
-  * [💻 Careers](our-mission/careers.md)
+  * [💻 Want to help?](our-mission/want-to-help.md)
 * [🔅 Volunteers](volunteers/README.md)
   * [Sign up form](https://tally.so/r/31WJx1)
 * [❓ FAQ](faq.md)
