@@ -15,7 +15,7 @@ We are just an independent initiative, each #PBW23 event is organised individual
 * collecting all publicly available data on all events and maintaining a [GitHub repository](https://github.com/utxo-foundation/prague-blockchain-week) with that data ([JSON](https://data.prgblockweek.com/23/index.json)), processing of PRs
 * operation of a website providing information on all events, venues etc. (using PBW data) - [explore.prgblockweek.com](https://explore.prgblockweek.com/) ([source](https://github.com/utxo-foundation/pbw-explore))
 * creation of PBW documentation (or PBW Guide), for both visitors and hosts - [guide.prgblockweek.com](https://guide.prgblockweek.com/) ([source](https://github.com/utxo-foundation/pbw-guide))
-* managing community spaces around PBW - sharing experiences, contacts, etc. (see [Contact Us](../contact-us.md))
+* managing community spaces around PBW (Telegram/Signal groups, Discord etc.) - sharing experiences, contacts, etc. (see [Contact Us](../contact-us.md))
 * Informing the general public via Twitter - [@prgblockweek](https://twitter.com/prgblockweek)
 
 ## Additional Goals
