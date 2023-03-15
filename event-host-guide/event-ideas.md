@@ -4,8 +4,6 @@ description: Possible activities you can use for your event.
 
 # ⛵ Event Ideas
 
-****![](../.gitbook/assets/image.png)****
-
 * **Wine Tasting**: Prague has a variety of wine tasting venues, such as [Zazitkove Degustace](https://zazitkovedegustace.cz/) or [Veltlin Wine Bar](https://www.veltlin.cz/en), that offer unique and exclusive experiences for corporate events.
 * [Prague Castle Tour](https://www.lucytours.com/private-tour/prague-castle-tour/): Take a private tour of one of the most iconic landmarks in Prague, and learn about the city's history and culture.
 * [Cooking Classes](https://airkitchen.me/list/czech-republic/prague/): Prague has several cooking schools that offer team building activities or private classes for groups.
