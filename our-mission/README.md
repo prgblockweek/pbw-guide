@@ -48,6 +48,6 @@ Want to join the team? We are looking for anyone who can help with our initiativ
 
 ## PBW Allies
 
-Allies is a broader group of people who are not specifically in charge of something particular, but are willing to help us to the extent they can ([PBW Allies group](pbw23-allies-group.md)). Anyone can become a PBW Allie!
+Allies is a broader group of people who are not specifically in charge of something particular, but are willing to help us to the extent they can ([PBW Allies group](allies-signal-group.md)). Anyone can become a PBW Allie!
 
 <table data-view="cards"><thead><tr><th></th><th></th><th>Role</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Dušan Kmetyo</strong> (OneBeerShow)</td><td><a href="https://cryptobyte.cz/">CryptoByte</a> conference in Liberec; <a href="https://ckma.cz/">ČKMA</a></td><td>BTC ambassador</td><td><a href="https://twitter.com/DusanKmetyo">https://twitter.com/DusanKmetyo</a></td></tr><tr><td><strong>Petr Menšík</strong></td><td><a href="https://twitter.com/polkadotterss">Polkadotters</a> CZ/SK Polkadot community</td><td>DOT ambassador</td><td></td></tr></tbody></table>
