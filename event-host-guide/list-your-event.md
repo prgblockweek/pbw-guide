@@ -1,9 +1,8 @@
 # ✅ List your event
 
-{% hint style="info" %}
-This page is under construction.
-{% endhint %}
+You can add your event to the PBW23 catalogue in 2 ways:
 
-Soon you will be able to list your own event using our GitHub repository.
+* Complete and submit the form to add a new event: [Event Submission Form](https://prgblockweek.com/submit-event)
+* IIf you have coding skills, you can create a Pull Request (PR) in the data repository: [utxo-foundation/prague-blockchain-week](https://github.com/utxo-foundation/prague-blockchain-week)
 
-If you want to add your event today, [contact us](../contact-us.md)!
+If you have any questions, [contact us](../contact-us.md)!

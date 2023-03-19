@@ -8,6 +8,8 @@ PBW is a [decentralized conference](../faq.md#what-is-decentralized-conference),
 
 The PBW team is here to help you with your event as much as possible. Don't be hesitate to [contact us](../contact-us.md) with any questions!
 
+:point\_right: [Form to add an event to the PBW23 catalogue](https://prgblockweek.com/submit-event)
+
 ## How to host an event
 
 Please read the supporting docs before submitting your Github PR.
