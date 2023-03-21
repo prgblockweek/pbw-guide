@@ -40,7 +40,7 @@ Membership intended for:
 ## DAO Technical Specification
 
 * Network: **Gnosis Chain** (?)
-* Platform: [Moloch DAOv3](https://daohaus.club/moloch) (DAOHaus)
+* Platform: [Moloch v3](https://daohaus.club/moloch) (DAOHaus)
 * DAO Name: **PBW23 Funding DAO**
 
 ### **Parameters**
