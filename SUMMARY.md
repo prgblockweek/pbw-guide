@@ -34,6 +34,7 @@
   * [💬 Allies Signal group](our-mission/allies-signal-group.md)
   * [🤝 Sponsors & Partners](our-mission-and-team/sponsors-and-partners.md)
   * [💻 Want to help?](our-mission/want-to-help.md)
+* [💰 Funding DAO](funding-dao.md)
 * [🔅 Volunteers](volunteers/README.md)
   * [Sign up form](https://tally.so/r/31WJx1)
 * [❓ FAQ](faq.md)
