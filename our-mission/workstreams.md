@@ -12,4 +12,5 @@ The PBW organization is divided into several sub-teams:
 | Livestreaming ("Live from Prague!")      | Federalized interactive livestreaming within PBW              | Chris H., Tree, (Ceci)     |
 | Marketing                                | Spreading awareness of PBW on Twitter and elsewhere           | ?                          |
 | Media relations                          | Cooperation with global and local news servers                | ?                          |
+| Benefits                                 | Benefits for visitors/organizators                            | ?                          |
 
