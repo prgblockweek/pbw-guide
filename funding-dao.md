@@ -25,17 +25,16 @@ Membership intended for:
 
 ## Membership Rewards
 
-| Tokens required | Name                                                                                                                                                |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| >= 1            | #PBW23 Funder SBT & stickers                                                                                                                        |
-| >= 2            | Free drink at #PBW23 Opening Party                                                                                                                  |
-| >= 5            | Free entry to UTXO.23 conference                                                                                                                    |
-| >= 7            | #PBW23 T-shirt                                                                                                                                      |
-| >= 20           | [PBW23 Event+](event-host-guide/eventplus.md) (only for events)                                                                                     |
-| >= 30           | Guaranteed free entry to all these events: UTXO.23, Gateway Cosmos, Web3Privacy Summit, PolkadotPrague, DeSci Prague, Prague DeFi Summit, ETHPrague |
-| >= 40           | Your logo on #PBW23 materials (small)                                                                                                               |
-| >= 80           | Your logo on #PBW23 materials (big)                                                                                                                 |
-| >= 100          | Guaranteed free entry to all #PBW23 events                                                                                                          |
+| Tokens required | Name                                                               |
+| --------------- | ------------------------------------------------------------------ |
+| >= 1            | #PBW23 Funder SBT & stickers                                       |
+| >= 2            | Free drink at #PBW23 Opening Party                                 |
+| >= 5            | Free entry to UTXO.23 conference                                   |
+| >= 7            | #PBW23 T-shirt                                                     |
+| >= 30           | Guaranteed free entry to all these events: TBA (until stocks last) |
+| >= 40           | Your logo on #PBW23 materials (small)                              |
+| >= 80           | Your logo on #PBW23 materials (big)                                |
+| >= 100          | Guaranteed free entry to all #PBW23 events (until stocks last)     |
 
 ## DAO Technical Specification
 
