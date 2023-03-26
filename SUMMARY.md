@@ -31,7 +31,7 @@
   * [🤝 Media Partnership Program (MPP)](media-partners/partnership-program.md)
 * [💙 Our mission](our-mission/README.md)
   * [👷 Workstreams](our-mission/workstreams.md)
-  * [💬 Allies Signal group](our-mission/allies-signal-group.md)
+  * [💬 PBW23 Allies](our-mission/pbw23-allies.md)
   * [🤝 Sponsors & Partners](our-mission-and-team/sponsors-and-partners.md)
   * [💻 Want to help?](our-mission/want-to-help.md)
 * [💰 Funding DAO](funding-dao.md)

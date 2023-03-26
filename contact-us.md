@@ -17,3 +17,7 @@ You can contact the team through the community groups above (Telegram, Discord) 
 ### Email
 
 [pbw@utxo.foundation](mailto:pbw@utxo.foundation)
+
+### Telegram
+
+* Tree - [@treecz](https://t.me/treecz) - PBW coordinator
