@@ -29,6 +29,7 @@
 * [💣 Promo Toolkit](promo-toolkit.md)
 * [📢 Media Partners](media-partners/README.md)
   * [🤝 Media Partnership Program (MPP)](media-partners/partnership-program.md)
+  * [🏢 Press Center](media-partners/press-center.md)
 * [💙 Our mission](our-mission/README.md)
   * [👷 Workstreams](our-mission/workstreams.md)
   * [💬 PBW23 Allies](our-mission/pbw23-allies.md)
