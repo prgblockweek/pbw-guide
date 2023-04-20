@@ -10,7 +10,7 @@ It's a temporary place created specifically for the purpose of Prague Blockchain
 
 ## Location
 
-Mississippi House\
+Cleevio @ Mississippi House\
 Karolinská 706/3, 186 00 Praha 8 - Karlín
 
 ## Opening hours
