@@ -10,8 +10,8 @@ It's a temporary place created specifically for the purpose of Prague Blockchain
 
 ## Location
 
-Cleevio @ Mississippi House\
-Karolinská 706/3, 186 00 Praha 8 - Karlín
+**Cleevio @ Mississippi House**\
+Karolinská 706/3, 186 00 Praha 8 - Karlín ([Google Maps](https://goo.gl/maps/d2vFNqZKpbDvbTVR9))
 
 ## Opening hours
 
@@ -28,4 +28,10 @@ Every day 9:00-18:00 (June 2-11)
 * basic technical service, charging point and storage
 * fully equipped podcast studio (for both audio and video)
 * basic refreshments (?)
+
+## TODO
+
+* photos
+* studio reservations
+* press centre schedule (networking events..)
 
