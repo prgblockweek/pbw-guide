@@ -15,11 +15,11 @@ Karolinská 706/3, 186 00 Praha 8 - Karlín ([Google Maps](https://goo.gl/maps/d
 
 ## Opening hours
 
-Only accredited journalists and partners have access to the Press Centre.
-
-## Access
-
 Every day 9:00-18:00 (June 2-11)
+
+{% hint style="warning" %}
+Only accredited journalists and partners have access to the Press Centre.
+{% endhint %}
 
 ## Facilities
 
