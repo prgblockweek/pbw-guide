@@ -17,6 +17,7 @@ Prague is a city with several distinct neighborhoods, each with its own unique c
 * [Lesser Town](https://goo.gl/maps/XzQo97FDbqfPbQ3k6): A picturesque area across the river from Old Town, featuring Baroque architecture, charming squares, and stunning views of the city.
 * [Vinohrady](https://goo.gl/maps/D1ELcF8zAXREmTsN7): A trendy neighborhood with leafy streets, boutique shops, and lively cafes and bars.
 * [Žižkov](https://goo.gl/maps/fFKRRrKtxEebwjAe7): A bohemian district with a vibrant nightlife, street art, and quirky bars and restaurants.
+* [Holešovice](https://goo.gl/maps/UEHPTV9YWRvuXeJk9): The part of Prague after which the [Ethereum Testnet](https://github.com/eth-clients/holesky) is named. It is the crypto center of Prague, where you can find the legendary [Paralelní Polis](https://explore.prgblockweek.com/23/place/paralelni-polis).
 
 ## Getting around
 
