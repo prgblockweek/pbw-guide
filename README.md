@@ -34,6 +34,7 @@ If you have any questions, ideas for improvements or comments, please [contact u
 * Twitter (Czech account): [@PrgBlockWeekCZ](https://twitter.com/PrgBlockWeekCZ)
 * Telegram: [@PrgBlockWeek](https://t.me/PrgBlockWeek)
 * Discord: [discord.com/invite/FYBQjHprEr](https://discord.com/invite/FYBQjHprEr)
+* GitHub: [@prgblockweek](https://github.com/prgblockweek)
 
 ## Table of Contents
 

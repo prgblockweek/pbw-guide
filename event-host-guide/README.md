@@ -29,7 +29,7 @@ You are in full control of the structure of your event. It's up to you where and
 
 The PBW team is here to assist you in organizing your event. We will help you choose a suitable venue and integrate your event into the overall schedule. We will also provide feedback and offer advice to ensure that your event is successful. Additionally, we will provide any necessary logistical support, including AV equipment, if needed.
 
-Check out [resources, experts and agencies](resources-experts-and-agencies.md) or reach out to [Tree](https://t.me/treecz) for help.
+Check out [resources, experts and agencies](resources-experts-and-agencies.md) or reach out to [Julian](https://t.me/jmznub) for help.
 
 You can also reach us in Telegram to ask questions directly.
 
