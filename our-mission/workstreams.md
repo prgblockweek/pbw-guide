@@ -2,15 +2,5 @@
 
 The PBW organization is divided into several sub-teams:
 
-| Workstream name                          | Description                                                   | Lead(s)                    |
-| ---------------------------------------- | ------------------------------------------------------------- | -------------------------- |
-| Core ([Maintainers](./#pbw-maintainers)) | Technical infrastructure (GitHub, servers, domains..)         | Tree, Tonda + Petr         |
-| [Funding DAO](../funding-dao.md)         | Seeking PBW sponsorship from individual events & crowdfunding | Tree, (Viktor)             |
-| Partners                                 | Partnership with PBW                                          | Tree, (Tereza)             |
-| [Volunteers](../volunteers/)             | Federalized volunteer management                              | Adam Sobotka               |
-| Website 1.0                              | Development of a new website                                  | Tree, Tonda, (Coinmandeer) |
-| Livestreaming ("Live from Prague!")      | Federalized interactive livestreaming within PBW              | Chris H., Tree, (Ceci)     |
-| Marketing                                | Spreading awareness of PBW on Twitter and elsewhere           | ?                          |
-| Media relations                          | Cooperation with global and local news servers                | ?                          |
-| Benefits                                 | Benefits for visitors/organizators                            | ?                          |
+<table><thead><tr><th width="223">Workstream name</th><th>Description</th><th width="181.33333333333331">Lead(s)</th></tr></thead><tbody><tr><td>Core (<a href="./#pbw-maintainers">Maintainers</a>)</td><td>Technical infrastructure (GitHub, servers, domains..)</td><td>Tree, Tonda + Petr</td></tr><tr><td><a href="../funding-dao.md">Funding DAO</a></td><td>Seeking PBW sponsorship from individual events &#x26; crowdfunding</td><td>Tree, (Viktor)</td></tr><tr><td>Partners</td><td>Partnership with PBW</td><td>Tree, (Tereza)</td></tr><tr><td><a href="../volunteers/">Volunteers</a></td><td>Federalized volunteer management</td><td>Adam Sobotka</td></tr><tr><td>Website 1.0</td><td>Development of a new website</td><td>Tree, Tonda, (Coinmandeer)</td></tr><tr><td>Livestreaming ("Live from Prague!")</td><td>Federalized interactive livestreaming within PBW</td><td>Chris H., Tree, (Ceci)</td></tr><tr><td>Marketing</td><td>Spreading awareness of PBW on Twitter and elsewhere</td><td>?</td></tr><tr><td>Media relations</td><td>Cooperation with global and local news servers</td><td>?</td></tr><tr><td>Benefits</td><td>Benefits for visitors/organizators</td><td>?</td></tr></tbody></table>
 

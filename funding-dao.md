@@ -25,16 +25,7 @@ Membership intended for:
 
 ## Membership Rewards
 
-| Tokens required | Name                                                               |
-| --------------- | ------------------------------------------------------------------ |
-| >= 1            | #PBW23 Funder SBT & stickers                                       |
-| >= 2            | Free drink at #PBW23 Opening Party                                 |
-| >= 5            | Free entry to UTXO.23 conference                                   |
-| >= 7            | #PBW23 T-shirt                                                     |
-| >= 30           | Guaranteed free entry to all these events: TBA (until stocks last) |
-| >= 40           | Your logo on #PBW23 materials (small)                              |
-| >= 80           | Your logo on #PBW23 materials (big)                                |
-| >= 100          | Guaranteed free entry to all #PBW23 events (until stocks last)     |
+<table><thead><tr><th width="180">Tokens required</th><th>Name</th></tr></thead><tbody><tr><td>>= 1</td><td>#PBW23 Funder SBT &#x26; stickers</td></tr><tr><td>>= 2</td><td>Free drink at #PBW23 Opening Party</td></tr><tr><td>>= 5</td><td>Free entry to UTXO.23 conference</td></tr><tr><td>>= 7</td><td>#PBW23 T-shirt</td></tr><tr><td>>= 30</td><td>Guaranteed free entry to all these events: TBA (until stocks last)</td></tr><tr><td>>= 40</td><td>Your logo on #PBW23 materials (small)</td></tr><tr><td>>= 80</td><td>Your logo on #PBW23 materials (big)</td></tr><tr><td>>= 100</td><td>Guaranteed free entry to all #PBW23 events (until stocks last)</td></tr></tbody></table>
 
 ## DAO Technical Specification
 
