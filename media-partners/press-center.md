@@ -10,6 +10,10 @@ It's a temporary place created specifically for the purpose of Prague Blockchain
 
 **Basic services are provided to accredited journalists for FREE.**
 
+You can register using this form:
+
+* [https://prgblockweek.com/media-registration](https://prgblockweek.com/media-registration)
+
 ## Location
 
 **Cleevio @ Mississippi House**\
