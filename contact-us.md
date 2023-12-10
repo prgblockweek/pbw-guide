@@ -13,7 +13,3 @@ You can contact the team through the community groups above (Telegram, Discord) 
 ### Email
 
 [pbw@utxo.foundation](mailto:pbw@utxo.foundation)
-
-### Telegram
-
-* Julian - [@jmznub](https://t.me/jmznub) - PBW coordinator
